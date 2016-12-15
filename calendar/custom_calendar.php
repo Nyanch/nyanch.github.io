@@ -2,7 +2,7 @@
 $calendarpath="https://www.google.com/calendar/embed?src=tdv5lpteblsnat2jpnbiamue90%40group.calendar.google.com&ctz=Asia/Singapore";
 
 //Custom css path
-$newcss="google_calendar.css";
+$newcss="custom_calendar.css";
 
 //Iframe contants
 $contents = file_get_contents($calendarpath);
